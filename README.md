@@ -1,0 +1,25 @@
+# DiceGameChallenge
+DiceGame-
+🎲 Dice Game Challenge
+Welcome to the Dice Game Challenge! This is a fun and simple game built using HTML, CSS, and JavaScript. The game allows two players to roll dice and compete to see who gets the higher number. Each time you refresh the page, new dice values are generated randomly, and the winner is displayed based on the higher dice roll.
+
+🔥 Features:
+🎯 Two-player dice game
+🎲 Random dice value generated on each page refresh
+👑 Displays the winner based on the higher dice roll
+🌐 Responsive and clean UI using HTML & CSS
+⚙️ Simple JavaScript logic for random number generation and DOM manipulation
+
+📸 Demo-
+
+
+🚀 How to Play:
+Open the game in your browser.
+Refresh the page.
+Watch the dice roll for Player 1 and Player 2.
+See who wins — the player with the higher number!
+
+🛠️ Tech Stack:
+HTML5
+CSS3 (Flexbox layout)
+JavaScript (Random number generation and DOM manipulation)
