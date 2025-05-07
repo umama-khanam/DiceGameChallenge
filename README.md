@@ -9,13 +9,14 @@ Welcome to the **Dice Game Challenge**! This is a fun and simple game built usin
 - 👑 Displays the winner based on the higher dice roll
 - 🌐 Responsive and clean UI using HTML & CSS
 - ⚙️ Simple JavaScript logic for random number generation and DOM Manipulation.
-
-## 📸 link to the DiceGameChallenge-
-
-![Dice Game Screenshot](screenshot.png)  
-
+  
 ## A screenshot preview of the DiceGame-
 https://github.com/umama-khanam/DiceGameChallenge/blob/main/screencapture-127-0-0-1-5500-Dicee-Game-Challenge-dicee-html-2025-05-07-04_53_41.png
+
+## 📸 link to the DiceGameChallenge-
+ https://umama-khanam.github.io/DiceGameChallenge/
+
+
 
 
 ## 🚀 How to Play
